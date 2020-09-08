@@ -1,5 +1,5 @@
 # SQLEditor
-This is a free, online and easy-to-use SQL Editor, where you can type and execute SQL commands.
+This is a free, lightweight, online and easy-to-use SQL Editor, where you can type and execute SQL commands.
 
 The program consists of 4 main sections:
 
@@ -26,6 +26,7 @@ This software was created using Python and the following modules:
    c. OS
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Get the software from the 'Releases' section, or click here: https://github.com/HardikMedhi/SQLEditor/releases/tag/v1.0
 I hope this software meets your SQL needs! I will be updating the software with new features, so stay tuned!
 
 Version 1 - Completed on September 1, 2020.
