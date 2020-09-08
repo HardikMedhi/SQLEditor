@@ -2,6 +2,7 @@
 This is a free, online and easy-to-use SQL Editor, where you can type and execute SQL commands.
 
 The program consists of 4 main sections:
+
   A. The central Working area, where you will type your code. 
   
   B. The Menu bar. The Menu bar is further divided into 3 parts:
@@ -23,7 +24,7 @@ This software was created using Python and the following modules:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I hope this software meets your SQL needs! I will be updating the software with new features, so stay tuned!
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Version 1 - Completed on September 1, 2020.
 Made by Hardik Medhi, an undergraduate student at REVA University.
 If you come across any bugs, or you want to provide feedback, please email me at: hardikmedhi21@gmail.com
