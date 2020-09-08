@@ -31,5 +31,7 @@ Get the software from the 'Releases' section, or click here: https://github.com/
 I hope this software meets your SQL needs! I will be updating the software with new features, so stay tuned!
 
 Version 1 - Completed on September 1, 2020.
-Made by Hardik Medhi, an undergraduate student at REVA University.
+
+Made by Hardik Medhi, an undergraduate student at REVA University, Bangalore.
+
 If you come across any bugs, or you want to provide feedback, please email me at: hardikmedhi21@gmail.com
