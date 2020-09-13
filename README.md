@@ -33,7 +33,6 @@ I hope this software meets your SQL needs! I will be updating the software with 
 Version 1.0 - Completed on September 1, 2020.
 
 Version 1.2 - Completed on September 13, 2020. Please read the new features in the release page.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Made by Hardik Medhi, an undergraduate student at REVA University, Bangalore.
 
